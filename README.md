@@ -1,7 +1,7 @@
 ### 👋
 
 <p align="center">
-  listening to the crack of doom on the hydrogen jukebox
+  >listening to the crack of doom on the hydrogen jukebox
 </p>
 
 ---

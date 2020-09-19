@@ -4,7 +4,7 @@
 ---
 
 
-[![Xinyi's github stats](https://github-readme-stats.vercel.app/api?username=xinyixiang&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Xinyi's github stats](https://github-readme-stats.vercel.app/api?username=xinyixiang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [1]: https://m.cmx.im/invite/StYQneRa
 [2]: https://www.linkedin.com/xinyixiang

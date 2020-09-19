@@ -5,6 +5,7 @@
 
 [![Xinyi's github stats](https://github-readme-stats.vercel.app/api?username=xinyixiang&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyixiang)](https://github.com/anuraghazra/github-readme-stats)
 
 [1]: https://m.cmx.im/invite/StYQneRa
 [2]: https://www.linkedin.com/xinyixiang

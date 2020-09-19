@@ -1,6 +1,6 @@
 ### 👋 listening to the crack of doom on the hydrogen jukebox
 ---
-![mastodon-fill](https://user-images.githubusercontent.com/30137615/93687154-24011f80-fa81-11ea-9557-7796f55798fd.png)[3]![linkedin-box-fill](https://user-images.githubusercontent.com/30137615/93687181-5874db80-fa81-11ea-82f9-659f179fd830.png)[2]![discord-fill](https://user-images.githubusercontent.com/30137615/93687182-59a60880-fa81-11ea-8ff9-4e06623a6a3a.png)[1]
+[![mastodon-fill](https://user-images.githubusercontent.com/30137615/93687154-24011f80-fa81-11ea-9557-7796f55798fd.png)][3]![linkedin-box-fill](https://user-images.githubusercontent.com/30137615/93687181-5874db80-fa81-11ea-82f9-659f179fd830.png)[2]![discord-fill](https://user-images.githubusercontent.com/30137615/93687182-59a60880-fa81-11ea-8ff9-4e06623a6a3a.png)[1]
 ---
 
 

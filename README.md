@@ -1,6 +1,4 @@
-[![UW Seattle Personal - Twitter Banner 1](https://user-images.githubusercontent.com/30137615/93690744-8407be00-faa1-11ea-94f6-e73fc80ec370.png)](https://dsc.community.dev/university-of-washington/)
-
-## Glad to see you here! 🤩
+## Hi!
 
 ### 🔭 I'm currently working on
 - [RemindMe](https://github.com/XinyiXiang/RemindMe): an app that integrates both quicknote creation and scheduling

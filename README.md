@@ -1,9 +1,5 @@
 ## Hi!
 
-<>### 🔭 I'm currently working on
-<>- [RemindMe](https://github.com/XinyiXiang/RemindMe): an app that integrates both quicknote creation and scheduling
-<>- [FoodTracker](https://github.com/UWAppDev/SwiftUI-FoodTracker): an iOS/iPadOS development tutotial series
-
 ### 🌱 I'm currently interested in
 - customizable and automated code analysis, vulnerability research and security check
 - intrinsic structures among natural languages combining semantic and syntactical analytical approaches

@@ -1,8 +1,8 @@
 ## Hi!
 
-### 🔭 I'm currently working on
-- [RemindMe](https://github.com/XinyiXiang/RemindMe): an app that integrates both quicknote creation and scheduling
-- [FoodTracker](https://github.com/UWAppDev/SwiftUI-FoodTracker): an iOS/iPadOS development tutotial series
+<>### 🔭 I'm currently working on
+<>- [RemindMe](https://github.com/XinyiXiang/RemindMe): an app that integrates both quicknote creation and scheduling
+<>- [FoodTracker](https://github.com/UWAppDev/SwiftUI-FoodTracker): an iOS/iPadOS development tutotial series
 
 ### 🌱 I'm currently interested in
 - customizable and automated code analysis, vulnerability research and security check
@@ -15,3 +15,5 @@
 [1]: https://m.cmx.im/@airdancer
 [2]: https://www.linkedin.com/in/xinyi-xiang
 [3]: https://discord.gg/3WcypJ
+
+![snake gif](https://github.com/XinyiXiang/XinyiXiang/blob/output/github-contribution-grid-snake.gif)

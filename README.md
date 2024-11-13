@@ -10,6 +10,5 @@
 
 [1]: https://m.cmx.im/@airdancer
 [2]: https://www.linkedin.com/in/xinyi-xiang
-[3]: https://discord.gg/3WcypJ
 
 ![snake gif](https://github.com/XinyiXiang/XinyiXiang/blob/output/github-contribution-grid-snake.svg)
